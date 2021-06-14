@@ -1,4 +1,9 @@
 ﻿  OOP3.cpp
 C:\Users\student\source\repos\OOP3\OOP3\OOP3.cpp(66,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Player.cpp
+C:\Users\student\source\repos\OOP3\OOP3\Player.cpp(25,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\student\source\repos\OOP3\OOP3\Player.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student\source\repos\OOP3\OOP3\Player.cpp(65,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
 C:\Users\student\source\repos\OOP3\OOP3\OOP3.cpp(62): warning C4715: winner: значение возвращается не при всех путях выполнения
   OOP3.vcxproj -> C:\Users\student\source\repos\OOP3\Debug\OOP3.exe

@@ -14,6 +14,11 @@ void Player::setScore()
 	score += cards[cards.size()-1].getPoint();
 }
 
+void Player::clearScore()
+{
+	score = 0;
+}
+
 void Player::setBet(int a)
 {
 	money -= a;

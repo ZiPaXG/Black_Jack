@@ -22,6 +22,7 @@ public:
 	};
 	void setDeckPlayer(Cards card);
 	void setScore();
+	void clearScore();
 	void setBet(int a);
 	void setWin();
 	void setDraw();
